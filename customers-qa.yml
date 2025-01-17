@@ -4,7 +4,7 @@ build:
 customers:
   message: "Welcome to MyBank customer related APIs"
   contactDetails:
-    email: "debabrata@example.com"
+    email: "{cipher}5782797d6e51233d78fc18d8c321cac16065bb4d2bc6bc695a6d59137e2728fb17c801ffefcfb0ba070e8a82fc8f0b20"
     name: "Debabrata - QA Lead"
   onCallSupport:
     - (+91) 7454712589

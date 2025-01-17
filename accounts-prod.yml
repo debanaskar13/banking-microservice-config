@@ -7,6 +7,6 @@ accounts:
     email: "{cipher}0ef37867b6eaa5aefd6231c0c6c6cc387f4129d75085a7dc21eb4950019bc8141de8909ebd8caf6ce10597bc1115c1df"
     name: "Aishwarya - Product Owner"
   onCallSupport:
-    - (+91) 7451248965
-    - (+91) 5874214863
+    - "{cipher}a75e7cd3f93d7a22a5ea2890704878ccfe54fd8875f95c19ec7ae1324cb1380c16306311fc395d50381a9a408b276f65"
+    - "{cipher}f429e0ecb3c235fb08a3aa201ea98d940208c5b6cd15a2d7147530057ad4f69b59fbebca22d4fbbeabe1df554708298a"
 

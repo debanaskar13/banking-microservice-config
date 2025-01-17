@@ -4,7 +4,7 @@ build:
 customers:
   message: "Welcome to MyBank customer related APIs"
   contactDetails:
-    email: "shivam@example.com"
+    email: "{cipher}bbd3e477e18993ca7d48ecb775cf861d21b50f4f4e0ae0a3c3ce4399041d37385683dc9bf73cf67b458549868542bec2"
     name: "Shivam - Product Owner"
   onCallSupport:
     - (+91) 7454712589

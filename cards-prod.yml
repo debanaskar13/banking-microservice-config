@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to MyBank cards related APIs"
   contactDetails:
-    email: "shivani@example.com"
+    email: "{cipher}a1661948394265a5ee549e80c114807c5ffd1f37c9ba5e117ac34df6ec2b48342a3d3d9b195a98f727e21aaa63ec79f6"
     name: "Shivani - Product Owner"
   onCallSupport:
     - (+91) 7451247412

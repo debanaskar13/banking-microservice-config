@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to MyBank accounts related APIs"
   contactDetails:
-    email: "debashis@example.com"
+    email: "{cipher}1b4e90b74a586e90065a1efa72f555b4c71f6747561c9c71ddf6af309ad688ef56dee10f0f7c4d374c573faa91c20041"
     name: "Debashis - Developer"
   onCallSupport:
     - (+91) 123456789

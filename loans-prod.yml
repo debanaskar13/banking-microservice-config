@@ -4,7 +4,7 @@ build:
 loans:
     message: "Welcome to MyBank loan related APIs"
     contactDetails:
-        email: "arijit@example.com"
+        email: "{cipher}733a78c600dde527353232e2e2c7552965f1a880037392a39023669d19dd72097519a86e8092105399687ba2ed8f6b36"
         name: "Arijit - Product Owner"
     onCallSupport:
         - (+91) 8647512494
