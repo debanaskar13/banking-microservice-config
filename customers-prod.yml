@@ -7,5 +7,5 @@ customers:
     email: "{cipher}bbd3e477e18993ca7d48ecb775cf861d21b50f4f4e0ae0a3c3ce4399041d37385683dc9bf73cf67b458549868542bec2"
     name: "Shivam - Product Owner"
   onCallSupport:
-    - (+91) 7454712589
-    - (+91) 7541284579
+    - "{cipher}08bb3709d765f245b3a4346a7f9903f3f683b5fe1036e6bbad2f6e14d51f6837d3729ede112b884a6c15d4b09d1b5c7e"
+    - "{cipher}99f52dd203dc9209849d61ce3ba9cc2af7a468f4f05e1de5bb979b61faedf62e51ed1c201b3dcc7f25e38ae8efcb6bd8"
