@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to MyBank accounts related APIs"
   contactDetails:
-    email: "aishwarya@example.com"
+    email: "0ef37867b6eaa5aefd6231c0c6c6cc387f4129d75085a7dc21eb4950019bc8141de8909ebd8caf6ce10597bc1115c1df"
     name: "Aishwarya - Product Owner"
   onCallSupport:
     - (+91) 7451248965
